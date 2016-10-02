@@ -1,0 +1,3 @@
+mklink /d "C:\Users\xenes\AppData\Local\Android" "E:\Development Kit\Android"
+mklink /d "C:\Java" "E:\Development Kit\Java"
+mklink /d "C:\ProgramData\Microsoft\AndroidNDK" "E:\Development-Kit\AndroidNDK"
